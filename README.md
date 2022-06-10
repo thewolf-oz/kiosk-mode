@@ -6,6 +6,8 @@ Hides the header and/or sidebar drawer in [Home Assistant](https://www.home-assi
 
 ![image](example1.png)
 
+This is a fork of @maykar's for my personal use. Use at your own risk!
+
 # Installation
 
 *If you previously used [custom-header](https://github.com/maykar/custom-header) you need to uninstall it from [HACS](https://hacs.xyz/)*<br>
